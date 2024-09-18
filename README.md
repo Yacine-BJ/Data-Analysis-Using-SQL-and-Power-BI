@@ -27,5 +27,7 @@ contract. Merchants can sell their products via the Olist Store and utilize Olis
 
 #### Project Outcome:
 By the end of this project, we aim to deliver a set of Power BI dashboards that provide actionable insights into the ecommerce operations of Olist Store. These dashboards will enable stakeholders to make informed decisions, improve operational efficiency, and enhance customer satisfaction.
+![image](https://github.com/user-attachments/assets/27cc74f8-005a-4a1e-9fb1-23e4b9561708)
+
 ### Due to the size of the files, I cannot upload them to GitHub. Please find the files on Google Drive using the link below:
 https://drive.google.com/drive/folders/1XFHDCOyHt6hV29Kyo3cT9_oeLEr-eCKj?usp=drive_link
